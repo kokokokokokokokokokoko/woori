@@ -20,6 +20,8 @@ String name = "홍길동";
 		이름은 : <%=name %> <br>
 		/Test에서 보낸 메시지 입니다 : <%=request.getAttribute("page") %>
 		
+		수정해봅니다
+		
 		
 </body>
 </html>
